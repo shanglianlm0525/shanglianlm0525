@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, Tks for you attention, have a good jour.
 
 <!--
 **shanglianlm0525/shanglianlm0525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
