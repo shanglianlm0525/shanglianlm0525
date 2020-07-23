@@ -1,4 +1,4 @@
-### elcome and hope you have a good journey.
+### Welcome and hope you have a good journey.
 
 <!--
 **shanglianlm0525/shanglianlm0525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
