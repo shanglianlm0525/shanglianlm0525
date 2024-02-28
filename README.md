@@ -2,6 +2,10 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shanglianlm0525&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shanglianlm0525&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="left"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/shanglianlm0525/count.svg" />
+</p>
 
 <!--
 **shanglianlm0525/shanglianlm0525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
