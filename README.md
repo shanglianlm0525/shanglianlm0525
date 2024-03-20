@@ -10,9 +10,6 @@
   <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" >
   <img alt="cuda" src="https://img.shields.io/badge/CUDA-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" >
   <img alt="cmake" src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" >
-  <img alt="java" src="https://img.shields.io/badge/Java-00599C?style=flat-square&logo=Java&logoColor=white" >
-  <img alt="html" src="https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white" >
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-239120?style=flat-square&logo=JavaScript&logoColor=white" >
 </p>
 
 
